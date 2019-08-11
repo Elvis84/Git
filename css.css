@@ -1,3 +1,6 @@
 body {
     background: green;
 }
+h1 {
+    width: content-box;
+}
